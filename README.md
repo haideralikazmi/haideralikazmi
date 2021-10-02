@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @haideralikazmi
+- 👋 Hi, I’m @haideralikazmi.
 - 👀 I’m interested in developing video games.
-- 🌱 I’m currently learning game programming inside Unity Game Engine with C# 
+- 🌱 I use Unity Game Engine with C# for my development. 
 - 📫 You can reach me on Discord at **Haider_Ali_Kazmi#2245** ...
 
 <!---
